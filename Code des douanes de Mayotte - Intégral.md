@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 1992-10-16
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
