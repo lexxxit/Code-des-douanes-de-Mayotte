@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -1853,7 +1853,8 @@ l'autorisation prévue à l'article 91 ci-après n'a pas encore été donnée.
 
 ###### Article 87
 
-Les droits et taxes exigibles pour chaque article d'une même déclaration sont arrondis au franc inférieur.
+Les droits et taxes exigibles pour chaque article d'une même déclaration sont arrondis à l'euro le plus proche, la fraction
+d'euro exactement égale à 0,50 étant comptée pour 1 euro.
 
 **Liens relatifs à cet article**
 
@@ -1861,9 +1862,10 @@ Les droits et taxes exigibles pour chaque article d'une même déclaration sont 
 
 	  - Ordonnance 92-1142 1992-10-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 15 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### Section 2 : Paiement au comptant.
@@ -3093,9 +3095,9 @@ sont vendues aux enchères publiques.
 2. Les marchandises périssables ou en mauvais état de conservation peuvent être vendues immédiatement avec l'autorisation du
 juge de première instance.
 
-3. Les marchandises d'une valeur inférieure à 100 F qui ne sont pas enlevées à l'expiration du délai de quatre mois visé au 1
-ci-dessus sont considérées comme abandonnées. L'administration des douanes peut les vendre aux enchères publiques ou en faire
-don à des hôpitaux, hospices ou autres établissements de bienfaisance.
+3. Les marchandises d'une valeur inférieure à 15 euros qui ne sont pas enlevées à l'expiration du délai de quatre mois visé
+au 1 ci-dessus sont considérées comme abandonnées. L'administration des douanes peut les vendre aux enchères publiques ou en
+faire don à des hôpitaux, hospices ou autres établissements de bienfaisance.
 
 **Liens relatifs à cet article**
 
@@ -3103,9 +3105,11 @@ don à des hôpitaux, hospices ou autres établissements de bienfaisance.
 
 	  - Ordonnance 92-1142 1992-10-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+	  - Ordonnance 2000-916 2000-09-19 art. 15 I, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 15 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article 153
@@ -3144,7 +3148,7 @@ b) Au recouvrement des droits et taxes dont sont passibles les marchandises en r
 marchandises.
 
 Le reliquat éventuel est versé à la paierie générale où il reste pendant deux ans à la disposition du propriétaire des
-marchandises ou des ayants droit. Passé ce délai, il est acquis au Trésor. Toutefois, s'il est inférieur à 2000 F, le
+marchandises ou des ayants droit. Passé ce délai, il est acquis au Trésor. Toutefois, s'il est inférieur à 305 euros, le
 reliquat est pris sans délai en recette au budget.
 
 3. Lorsque le produit de la vente est insuffisant pour régler les créances énumérées au 2 ci-dessus, les sommes obtenues sont
@@ -3157,9 +3161,11 @@ diligence de l'administration. Le tribunal compétent est le tribunal de premiè
 
 	  - Ordonnance 92-1142 1992-10-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+	  - Ordonnance 2000-916 2000-09-19 art. 15 I, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 15 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ## Titre VII : Opérations privilégiées
@@ -3383,8 +3389,8 @@ punies, les poursuites sont effectuées et les instances sont instruites et jug�
 francisés dans ce territoire sont traités comme s'ils étaient importés directement dans la partie du territoire douanier où
 se trouve le port d'attache, pour y recevoir le même affectation.
 
-Il y a, toutefois, exonération de tous droits et taxes lorsque le montant des réparations n'exède pas 2000 F par tonneau de
-jauge ou, quel que soit le montant de celles-ci, lorsque le navire s'est trouvé contraint à se faire réparer hors du
+Il y a, toutefois, exonération de tous droits et taxes lorsque le montant des réparations n'exède pas 305 euros par tonneau
+de jauge ou, quel que soit le montant de celles-ci, lorsque le navire s'est trouvé contraint à se faire réparer hors du
 territoire douanier ; dans ce dernier cas, il doit être justifié de la nécessité invoquée au moyen d'une attestation du
 consul français du port de radoub, délivrée, le cas échéant, sur rapport d'expert provoqué par ledit consul.
 
@@ -3406,9 +3412,11 @@ déclaration doit être déposée au bureau de douane de ce port dans les trois 
 
 	  - Ordonnance 92-1142 1992-10-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+	  - Ordonnance 2000-916 2000-09-19 art. 15 I, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 15 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### Section 3 : Congés.
@@ -4230,33 +4238,6 @@ montant que celui des sanctions fiscales prononcées.
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre V : Responsabilité et solidarité
-
-#### Section 2 : Responsabilité civile
-
-##### Paragraphe 1 : Responsabilité de l'administration.
-
-###### Article 271
-
-S'il n'est point constaté qu'il y ait motif de saisie, il doit être payé la somme de 500 F à celui au domicile duquel les
-recherches ont été faites, en vertu de l'article 41 ci-dessus, sauf plus grands dommages et intérêts auxquels les
-circonstances de la visite peuvent éventuellement donner lieu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Cite**:
-
-	  - Code des douanes de Mayotte - art. 41 (M)
-
-
 ### Chapitre VI : Dispositions répressives
 
 #### Section 1 : Classification des infractions douanières et peines principales
@@ -4273,8 +4254,8 @@ fois la valeur de l'objet de fraude, tout fait de contrebande, ainsi que tout fa
 déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
 fortement taxées au sens du présent code.
 
-Les infractions portant sur des marchandises non prohibées, dont la valeur n'excède pas 5000 F, sont passibles d'une amende
-égale à la valeur desdites marchandises.
+Les infractions portant sur des marchandises non prohibées, dont la valeur n'excède pas 770 euros, sont passibles d'une
+amende égale à la valeur desdites marchandises.
 
 **Liens relatifs à cet article**
 
@@ -4282,9 +4263,11 @@ Les infractions portant sur des marchandises non prohibées, dont la valeur n'ex
 
 	  - Ordonnance 92-1142 1992-10-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+	  - Ordonnance 2000-916 2000-09-19 art. 15 I, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 15 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 	**Cité par**:
 
