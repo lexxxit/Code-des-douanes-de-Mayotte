@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2003-03-19
 
 # Partie législative
 
@@ -3914,10 +3914,10 @@ dans une autre localité.
 2. Les agents qui ont constaté une infraction rédigent le procès-verbal sans divertir à d'autres actes et au plus tard
 immédiatement après le transport et le dépôt des objets saisis.
 
-3. a) Le procès-verbal peut être rédigé au lieu de dépôt des objets saisis ou au lieu de la constation de l'infraction.
+3. a) Le procès-verbal peut être rédigé au lieu de dépôt des objets saisis ou au lieu de la constatation de l'infraction.
 
-Il peut être également rédigé au siège de la brigade de gendarmerie, au bureau d'un fonctionnaire des finances, ou à la
-mairie du lieu ;
+Il peut être également rédigé dans les locaux de police, au siège de la brigade de gendarmerie, au bureau d'un fonctionnaire
+des finances, ou à la mairie du lieu ;
 
 b) En cas de saisie dans une maison, le procès-verbal peut y être valablement rédigé.
 
@@ -3927,13 +3927,9 @@ b) En cas de saisie dans une maison, le procès-verbal peut y être valablement 
 
 	  - Ordonnance 92-1142 1992-10-12
 
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Loi n°2003-239 du 18 mars 2003 - art. 134 () JORF 19 mars 2003
 
 
 ### Chapitre II : Poursuites
