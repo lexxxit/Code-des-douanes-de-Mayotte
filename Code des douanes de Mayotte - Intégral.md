@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -7447,38 +7447,29 @@ fait mention dans le procès-verbal d'apposition des scellés.
 En cas d'inculpation du chef de l'infraction prévue à l'article 283 ci-après et afin de garantir le paiement des amendes
 encourues, des frais de justice et la confiscation, le président du tribunal de première instance peut ordonner, à la demande
 de l'administration des douanes et après avis du procureur de la République, aux frais avancés du Trésor et selon les
-modalités prévues par le nouveau code de procédure civile, des mesures conservatoires sur les biens de la personne inculpée.
+modalités prévues par le code de procédure civile, des mesures conservatoires sur les biens de la personne inculpée. 
 
-La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
+La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés. 
 
 La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
 ordonnées. Il en est de même en cas d'extinction de l'action publique.
 
 **Nota:**
 
-NOTA : Loi 93-1013 du 24 août 1993 art. 46 :
+Loi 93-1013 du 24 août 1993 art. 46 : 
 
 Dans les dispositions de nature législative, toute mention relative à l'inculpation est remplacée par une mention relative à
 la mise en examen et toute mention relative à l'inculpé est remplacée par une mention relative à la personne mise en examen.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 	**Cite**:
 
-	  - Code des douanes de Mayotte - art. 283 (M)
+	  - Code des douanes de Mayotte - art. 283 (V)
 
 
 ###### Article 254
@@ -9268,26 +9259,26 @@ En cas de partage des voix, la voix du président est prépondérante.
 ###### Article 308
 
 1. Seules peuvent être désignées comme assesseurs les personnes figurant sur les listes établies, pour chaque chapitre du
-tarif des droits de douane d'importation, par arrêté du représentant de l'Etat.
+tarif des droits de douane d'importation, par arrêté du représentant de l'Etat. 
 
 Ces personnes sont classées pour chaque chapitre du tarif selon leur qualification et réparties en deux catégories, l'une
-dite des producteurs, industriels et fabricants, l'autre dite des commerçants, importateurs et exportateurs.
+dite des producteurs, industriels et fabricants, l'autre dite des commerçants, importateurs et exportateurs. 
 
 Un arrêté du représentant de l'Etat fixe les modalités d'établissement des listes en précisant notamment les conditions dans
-lesquelles la chambre professionnelle de Mayotte est appelée à formuler des propositions.
+lesquelles la chambre professionnelle de Mayotte est appelée à formuler des propositions. 
 
-2. Dans chaque affaire, le président désigne les deux assesseurs appelés à la commission et leurs suppléants.
+2. Dans chaque affaire, le président désigne les deux assesseurs appelés à la commission et leurs suppléants. 
 
 3. Les assesseurs et leurs suppléants doivent être choisis, l'un dans la catégorie dite des producteurs, industriels et
 fabricants, l'autre dans la catégorie dite des commerçants, importateurs et exportateurs. Ils doivent être choisis dans le
 chapitre relatif à la marchandise qui fait l'objet de la contestation, ce chapitre pouvant être indifféremment celui de
 l'espèce déclarée ou celui de l'espèce présumée ; lorsque la désignation ne peut être faite dans ces conditions, les
 assesseurs techniques peuvent être choisis dans les chapitres afférents aux marchandises qui présentent le plus d'analogie
-avec celles faisant l'objet de la contestation.
+avec celles faisant l'objet de la contestation. 
 
-4. Les dispositions des articles 341 à 355 du nouveau code de procédure civile sont applicables aux assesseurs et à leurs
+4. Les dispositions des articles 341 à 355 du    code de procédure civile sont applicables aux assesseurs et à leurs
 suppléants ; tout membre de la commission qui saura cause de récusation en sa personne sera tenu de la déclarer immédiatement
-au président ; il sera remplacé par le suppléant désigné.
+au président ; il sera remplacé par le suppléant désigné. 
 
 5° Les assesseurs sont tenus au secret professionnel.
 
@@ -9295,20 +9286,15 @@ au président ; il sera remplacé par le suppléant désigné.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 341 à 355
-
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+	  - Code de procédure civile - art. 341
 
 
 ###### Article 309
