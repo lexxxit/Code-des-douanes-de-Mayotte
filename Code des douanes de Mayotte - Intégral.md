@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2008-08-30
 
 # Partie législative
 
@@ -1133,34 +1133,31 @@ l'intérieur des zones de sécurité prévues par la loi.
 ###### Article 40 bis
 
 Afin de procéder aux investigations nécessaires à la recherche et à la constatation des infractions prévues au présent code,
-les agents des douanes ayant au moins le grade de contrôleur ont accès aux locaux et lieux à usage professionnel ainsi qu'aux
-terrains et aux entrepôts où les marchandises et documents se rapportant à ces infractions sont susceptibles d'être détenus.
-Aux mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement.
+les agents des douanes de catégorie A ou B et les agents de catégorie C pour autant qu'ils soient accompagnés de l'un des
+agents précités ont accès aux locaux et lieux à usage professionnel ainsi qu'aux terrains et aux entrepôts où les
+marchandises et documents se rapportant à ces infractions sont susceptibles d'être détenus quel qu'en soit le support. Aux
+mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement. 
 
 Cet accès a lieu entre 8 heures et 20 heures ou, en dehors de ces heures, lorsque l'accès au public est autorisé, ou lorsque
 sont en cours des activités de production, de fabrication, de conditionnement, de transport, de manutention, d'entreposage ou
-de commercialisation.
+de commercialisation. 
 
 Le procureur de la République est préalablement informé des opérations visées au premier alinéa et peut s'y opposer. Un
 procès-verbal de constat relatant le déroulement des opérations de contrôle lui est transmis dans les cinq jours suivant son
-établissement. Une copie en est transmise à l'intéressé dans le même délai.
+établissement. Une copie en est transmise à l'intéressé dans le même délai. 
 
 Au cours de leurs investigations, les agents des douanes mentionnés au premier alinéa peuvent effectuer un prélèvement
 d'échantillons, dans des conditions fixées par décret en Conseil d'Etat, et procéder à la retenue de documents pour les
-besoins de l'enquête ou en prendre copie.
+besoins de l'enquête ou en prendre copie quel qu'en soit le support. 
 
 Le présent article ne s'applique pas à la partie des locaux et lieux cités au premier alinéa qui est également affectée au
 domicile privé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
 
 
 ###### Article 41
@@ -1168,7 +1165,7 @@ domicile privé.
 1. Pour la recherche et la constatation des délits douaniers visés aux articles 282 à 291 et 321 du présent code, les agents
 des douanes habilités à cet effet par le directeur général des douanes et droits indirects peuvent procéder à des visites en
 tous lieux, même privés, où les marchandises et documents se rapportant à ces délits sont susceptibles d'être détenus et
-procéder à leur saisie. Ils sont accompagnés d'un officier de police judiciaire.
+procéder à leur saisie quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire.
 
 2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une ordonnance du président du tribunal de
 première instance ou d'un juge délégué par lui.
@@ -1250,13 +1247,9 @@ judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
@@ -1265,6 +1258,15 @@ judiciaire.
 	  - Code des douanes de Mayotte - art. 271 (V)
 	  - Code des douanes de Mayotte - art. 316 (V)
 
+	**Cite**:
+
+	  - Code de procédure pénale - art. 550
+	  - Code de procédure pénale - art. 56
+	  - Code de procédure pénale - art. 58
+	  - Code des douanes de Mayotte
+	  - Code des douanes de Mayotte - art. 208
+	  - Code des douanes de Mayotte - art. 321
+
 
 #### Section 3 : Droit de communication
 
@@ -1272,15 +1274,16 @@ judiciaire.
 
 ###### Article 42
 
-1. En aucun cas, les administrations de l'Etat et des collectivités territoriales ainsi que les entreprises concédées par
+1. En aucun cas, les administrations de l'Etat et des collectivités territoriales, ainsi que les entreprises concédées par
 l'Etat et par les collectivités territoriales, de même que tous les établissements ou organismes quelconques soumis au
-contrôle de l'autorité administrative, ne peuvent opposer le secret professionnel aux agents de l'administration des finances
-ayant au moins le grade d'inspecteur qui, pour établir les impôts institués par les lois existantes, leur demandent
-communication des documents de service qu'ils détiennent.
+contrôle de l'autorité administrative ainsi que les organismes et caisses de sécurité sociale et les organismes gestionnaires
+du régime d'assurance-chômage, ne peuvent opposer le secret professionnel aux agents des douanes ayant au moins le grade de
+contrôleur qui, pour établir des impôts institués par les lois existantes, leur demandent communication des documents de
+service qu'ils détiennent, quel qu'en soit le support. 
 
-Les agents ayant qualité pour exercer le droit de communication susvisé peuvent se faire assister par des fonctionnaires d'un
-grade inférieur, astreints comme eux et sous les mêmes sanctions au secret professionnel, en vue de leur confier des travaux
-de pointage, relevés et copies de documents.
+Les agents des douanes de catégorie C peuvent exercer le droit de communication prévu à l'alinéa précédent lorsqu'ils
+agissent sur ordre écrit d'un agent des douanes ayant au moins le grade d'inspecteur. Cet ordre doit être présenté aux
+autorités mentionnées à cet alinéa.
 
 2. Les renseignements individuels d'ordre économique ou financier recueillis au cours d'enquêtes statistiques faites dans le
 cadre de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière statistique ne peuvent en
@@ -1289,17 +1292,13 @@ renseignements de cette nature ne sont pas tenues par l'obligation découlant du
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+	  - Loi n°51-711 du 7 juin 1951
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
 
 
 ###### Article 42 bis
@@ -1328,7 +1327,7 @@ demande, aux fonctionnaires des douanes.
 
 1° Les agents des douanes ayant au moins le grade de contrôleur ou assimilés ou d'officier et ceux chargés des fonctions de
 contrôles différés et a posteriori peuvent exiger la communication des papiers et documents de toute nature relatifs aux
-opérations intéressant leur service :
+opérations intéressant leur service quel qu'en soit le support :
 
 a) Dans les locaux des compagnies de navigation maritime et chez les armateurs, consignataires et courtiers maritimes
 (manifeste de fret, connaissements, billets de bord, avis d'expédition, ordre de livraison, etc.) ;
@@ -1357,8 +1356,9 @@ derniers, dans le cadre de l'article L. 34-1 du code des postes et des communica
 i) Et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
 régulières ou irrégulières relevant de la compétence du service des douanes.
 
-2° Les agents ayant qualité pour exercer le droit de communication prévu par le 1 ci-dessus peuvent se faire assister par des
-fonctionnaires d'un grade moins élevé, astreints comme eux et sous les mêmes sanctions au secret professionnel.
+2° Les agents des douanes de catégorie C peuvent exercer le droit de communication prévu au 1° lorsqu'ils agissent sur ordre
+écrit d'un agent des douanes ayant au moins le grade d'inspecteur. Cet ordre doit être présenté aux personnes envers
+lesquelles le droit de communication est mis en œuvre. 
 
 3° Les divers documents visés ci-dessus doivent être conservés par les intéressés pendant un délai de trois ans, à compter de
 la date d'envoi des colis, pour les expéditeurs, et à compter de la date de leur réception, pour les destinataires.
@@ -1370,22 +1370,34 @@ de lettres, carnets de chèques, traites, comptes de banque, etc.) propres à fa
 5° Le service des douanes est autorisé à fournir aux services des douanes de métropole, des départements et régions d'outre-
 mer, des collectivités d'outre-mer, de Nouvelle-Calédonie et, sous réserve de réciprocité, aux autorités qualifiées des pays
 étrangers tous renseignements, certificats, procès-verbaux et autres documents susceptibles d'établir la violation des lois
-et règlements applicables à l'entrée ou à la sortie de leur territoire.
+et règlements applicables à l'entrée ou à la sortie de leur territoire quel qu'en soit le support.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 92-1142 1992-10-12
+	  - Loi n°2004-575 du 21 juin 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code des douanes de Mayotte - art. 281 (V)
 	  - Code des douanes de Mayotte - art. 293 (V)
+
+
+###### Article 43-1
+
+Le droit de communication prévu aux articles 42 et 43 est étendu au profit des agents des douanes chargés du recouvrement de
+toutes sommes perçues selon les modalités prescrites par le présent code et aux conditions mentionnées à ces mêmes articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
 
 
 #### Section 4 : Contrôle douanier des envois par la poste.
@@ -3453,26 +3465,17 @@ b) Réduire la durée du séjour pour des raisons tenant au type d'entrepôt.
 ###### Article 114
 
 1. L'entrepôt public est accordé lorsqu'il répond à des besoins généraux. Il est concédé par arrêté du représentant de l'Etat
-selon l'ordre de priorité suivant : à la commune, au port autonome ou à la chambre professionnelle ; la concession ne peut
-être rétrocédée. Les frais d'exercice sont à la charge de Mayotte.
+selon l'ordre de priorité suivant : à la commune, au port décentralisé ou à la chambre de commerce et d'industrie ; la
+concession ne peut être rétrocédée. Les frais d'exercice sont à la charge de Mayotte.
 
 2. La procédure de concession et les conditions d'exploitation de l'entrepôt public sont fixées par arrêté du représentant de
 l'Etat après avis du conseil général.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
 
 
 ##### Paragraphe 2 : Utilisation de l'entrepôt public Séjour des marchandises.
@@ -6411,6 +6414,24 @@ Les recours prévus aux articles 218 et 219 ne suspendent pas l'exécution de l'
 	  - Code des douanes de Mayotte - art. 218 (V)
 
 
+###### Article 217-1
+
+I. - Lorsque le redevable a appliqué un texte fiscal selon l'interprétation que l'administration avait fait connaître par ses
+instructions ou circulaires publiées et qu'elle n'avait pas rapportées à la date des opérations constituant le fait
+générateur, elle ne peut constater par voie d'avis de mise en recouvrement et recouvrer les droits et taxes perçus selon les
+modalités du présent code, en soutenant une interprétation différente. 
+
+II. - Lorsque l'administration a formellement pris position sur l'appréciation d'une situation de fait au regard d'un texte
+fiscal, elle ne peut constater par voie d'avis de mise en recouvrement et recouvrer les droits et taxes perçus selon les
+modalités du présent code en prenant une position différente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
+
+
 ###### Article 218
 
 Toute contestation de la créance doit être adressée à l'autorité qui a signé l'avis de mise en recouvrement dans les trois
@@ -8202,36 +8223,33 @@ Toute tentative de délit douanier est considérée comme le délit même.
 
 ###### Article 278
 
-1. Est passible d'une amende de 2000 à 20000 F toute infraction aux dispositions des lois et règlements que l'administration
-des douanes est chargée d'appliquer lorsque cette irrégularité n'est pas plus sévèrement réprimée par le présent code.
+1. Est passible d'une amende de 300 à 3 000 € toute infraction aux dispositions des lois et règlements que l'administration
+des douanes est chargée d'appliquer lorsque cette irrégularité n'est pas plus sévèrement réprimée par le présent code. 
 
-2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent :
+2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent : 
 
 a) Toute omission ou inexactitude portant sur l'une des indications que les déclarations doivent contenir lorsque
-l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ;
+l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ; 
 
-b) Toute omission d'inscription aux répertoires visés à l'article 70 ci-dessus ;
+b) Toute omission d'inscription aux répertoires visés à l'article 70 ci-dessus ; 
 
 c) Toute infraction aux dispositions des articles 50 et 187 ci-dessus ou aux dispositions des arrêtés pris pour l'application
-de l'article 10-2 du présent code ;
+de l'article 10-2 du présent code ; 
 
 d) Toute infraction aux règles de qualité ou de conditionnement imposées à l'importation ou à l'exportation lorsque celle-ci
 n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code des douanes de Mayotte - art. 187 (V)
+	  - Code des douanes de Mayotte - art. 50 (V)
+	  - Code des douanes de Mayotte - art. 70 (V)
 
 
 ##### B. - Deuxième classe.
@@ -8292,15 +8310,14 @@ recouvrement de droits de port ou de redevances d'équipement.
 
 ###### Article 280
 
-Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 1000 à 10000 F :
+Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 150 à 1 500 € :
 
 1° Tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque l'infraction porte
 sur des marchandises de la catégorie de celles qui ne sont ni prohibées ou fortement taxées à l'entrée, ni soumises à des
 taxes de consommation intérieure, ni prohibées ou taxées à la sortie ;
 
 2° Toute fausse déclaration dans l'espèce, la valeur ou l'origine des marchandises importées, exportées ou placées sous un
-régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse
-déclaration  ;
+régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse déclaration ;
 
 3° Toute fausse déclaration dans la désignation du destinataire réel ou de l'expéditeur réel ;
 
@@ -8321,25 +8338,16 @@ non autorisées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
 
 
 ##### D. - Quatrième classe.
 
 ###### Article 281
 
-1. Est passible d'un emprisonnement de dix jours à un mois et d'une amende de 600 à 3000 F toute infraction aux dispositions
+1. Est passible d'un emprisonnement de dix jours à un mois et d'une amende de 90 à 450 €  toute infraction aux dispositions
 des articles 28-1, 37-1, 48 b, 50 et 95 ci-dessus, ainsi que tout refus de communication de pièces, toute dissimulation de
 pièces ou d'opérations dans les cas prévus aux articles 43 et 70 ci-dessus.
 
@@ -8357,18 +8365,22 @@ En cas de récidive des contraventions mentionnées au présent article, la pein
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code des douanes de Mayotte - art. 28
+	  - Code des douanes de Mayotte - art. 37
+	  - Code des douanes de Mayotte - art. 43
+	  - Code des douanes de Mayotte - art. 48
+	  - Code des douanes de Mayotte - art. 50
+	  - Code des douanes de Mayotte - art. 67
+	  - Code des douanes de Mayotte - art. 68
+	  - Code des douanes de Mayotte - art. 70
+	  - Code des douanes de Mayotte - art. 71
+	  - Code des douanes de Mayotte - art. 95
 
 
 ##### Paragraphe 3 : Délits douaniers
@@ -9023,31 +9035,26 @@ marchandises de même nature et d'après la valeur moyenne indiquée par la dern
 
 ###### Article 300
 
-Le montant des amendes multiples de droits ou de la valeur ne peut être inférieur à 1000 ou 2000 F selon qu'elles sont
-définies en fonction des droits ou de la valeur.
+Le montant des amendes multiples de droits ou de la valeur ne peut être inférieur à 150 ou 300 € selon qu'elles sont définies
+en fonction des droits ou de la valeur.
 
 Dans les cas visés à l'article 284-2 c ci-dessus relatif aux soustractions ou substitutions en cours de transport de
-marchandises, le taux minimal des amendes prononcées est fixé à 200 F par colis, ou, s'il s'agit de marchandises en vrac, par
+marchandises, le taux minimal des amendes prononcées est fixé à 30 € par colis, ou, s'il s'agit de marchandises en vrac, par
 tonne ou fraction de tonne.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code des douanes de Mayotte - art. 236 (V)
+
+	**Cite**:
+
+	  - Code des douanes de Mayotte - art. 284
 
 
 ###### Article 301
@@ -9668,7 +9675,7 @@ minimum au montant et au maximum au double de la somme sur laquelle a porté l'i
 par le délinquant ou lorsque le ministre du budget ou son représentant en fait la demande, le tribunal doit, pour tenir lieu
 de la confiscation, prononcer une condamnation au paiement d'une somme égale à la valeur de ces objets.
 
-3. Sera punie d'un emprisonnement de un an à cinq ans et d'une amende de 3000 à 1800000 F toute personne qui aura incité par
+3. Sera punie d'un emprisonnement de un an à cinq ans et d'une amende de 450 à 225 000 € toute personne qui aura incité par
 écrit, propagande ou publicité à commettre une ou des infractions visées au 1 ci-dessus, que cette incitation ait été ou non
 suivie d'effet.
 
@@ -9682,17 +9689,9 @@ insérées en entier ou par extraits dans les journaux qu'ils désigneront.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
 
 	**Cité par**:
 
