@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2009-06-27
+Version Consolidée au 2011-03-16
 
 # Partie législative
 
@@ -1162,10 +1162,16 @@ domicile privé.
 
 ###### Article 41
 
-1. Pour la recherche et la constatation des délits douaniers visés aux articles 282 à 291 et 321 du présent code, les agents
-des douanes habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même
-privés, où les marchandises et documents se rapportant à ces délits sont susceptibles d'être détenus et procéder à leur
-saisie quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire. 
+1. Pour la recherche et la constatation des délits douaniers visés aux articles 282 à 291 et 321, les agents des douanes
+habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les
+marchandises et documents se rapportant à ces délits ainsi que les biens et avoirs en provenant directement ou indirectement
+sont susceptibles d'être détenus. Ils sont accompagnés d'un officier de police judiciaire. 
+
+Les agents des douanes habilités peuvent procéder, à l'occasion de la visite, à la saisie des marchandises et des documents,
+quel qu'en soit le support, se rapportant aux délits précités. Si, à l'occasion d'une visite autorisée en application du 2 du
+présent article, les agents habilités découvrent des biens et avoirs provenant directement ou indirectement des délits
+précités, ils peuvent procéder à leur saisie après en avoir informé par tout moyen le juge qui a pris l'ordonnance et qui
+peut s'y opposer. 
 
 2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une ordonnance du juge de la liberté et de la
 détention du tribunal de grande instance du lieu de la direction des douanes dont dépend le service chargé de la procédure 
@@ -1183,13 +1189,19 @@ mentionnées au 1, de faire appel à un conseil de son choix.
 L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
-l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée. 
+l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée. Il se prononce par une mention expresse sur
+la saisie de biens et avoirs pouvant provenir directement ou indirectement des délits dont la preuve est recherchée. 
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
 la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux
 agissements visés au 1 sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui
 a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
 verbal prévu au b du 2. 
+
+Si, à l'occasion de la visite, les agents habilités découvrent des éléments révélant l'existence en d'autres lieux de biens
+ou avoirs se rapportant aux agissements visés au 1, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a
+pris l'ordonnance, procéder immédiatement à la visite de ces lieux aux fins de saisir ces biens et avoirs. Mention de cette
+autorisation est portée au procès-verbal prévu au b du présent 2.
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite. 
@@ -1241,20 +1253,22 @@ peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
 dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable. 
 
-Le procès-verbal, auquel est annexé un inventaire des marchandises et documents saisis, est signé par les agents des douanes,
+Le procès-verbal, auquel est annexé un inventaire des marchandises et documents saisis ainsi que des biens et avoirs
+provenant directement ou indirectement des délits dont la preuve est recherchée, est signé par les agents des douanes,
 l'officier de police judiciaire et par les personnes mentionnées au premier alinéa du présent b ; en cas de refus de signer,
 mention en est faite au procès-verbal. 
 
-Si l'inventaire sur place présente des difficultés, les pièces et documents saisis sont placés sous scellés.L'occupant des
-lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de
-police judiciaire ; l'inventaire est alors établi. 
+Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous
+scellés.L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en
+présence de l'officier de police judiciaire ; l'inventaire est alors établi. 
 
 Une copie du procès-verbal et de l'inventaire est remise à l'occupant des lieux ou à son représentant. Une copie est
 également adressée par lettre recommandée avec demande d'avis de réception à l'auteur présumé des délits douaniers mentionnés
 au 1, nonobstant les dispositions de l'article 33. 
 
 Un exemplaire du procès-verbal et de l'inventaire est adressé au juge qui a délivré l'ordonnance dans les trois jours de son
-établissement. 
+établissement. Si le juge constate que les biens et avoirs saisis ne proviennent pas directement ou indirectement des délits
+dont la preuve est recherchée, il ordonne la mainlevée de la saisie et la restitution des biens et avoirs concernés.
 
 Le président du tribunal supérieur d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie
 autorisées en application du a. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations mentionnent le délai et
@@ -1286,7 +1300,7 @@ judiciaire.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 9
+	  - Loi n°2011-267 du 14 mars 2011 - art. 126
 
 	**Cite**:
 
@@ -8418,10 +8432,14 @@ En cas de récidive des contraventions mentionnées au présent article, la pein
 ###### Article 282
 
 Sont passibles d'un emprisonnement maximum de trois ans, de la confiscation de l'objet de fraude, de la confiscation des
-moyens de transport, de la confiscation des objets servant à masquer la fraude et d'une amende comprise entre une et deux
-fois la valeur de l'objet de fraude, tout fait de contrebande, ainsi que tout fait d'importation ou d'exportation sans
-déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
-fortement taxées au sens du présent code.
+moyens de transport, de la confiscation des objets servant à masquer la fraude, de la confiscation des biens et avoirs qui
+sont le produit direct ou indirect de l'infraction et d'une amende comprise entre une et deux fois la valeur de l'objet de
+fraude, tout fait de contrebande, ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque ces infractions
+se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou fortement taxées au sens du présent code.
+
+La peine d'emprisonnement est portée à une durée maximale de cinq ans et l'amende peut aller jusqu'à trois fois la valeur de
+l'objet de fraude lorsque les faits de contrebande, d'importation ou d'exportation portent sur des biens à double usage,
+civil et militaire, dont la circulation est soumise à restriction par la réglementation européenne. 
 
 La peine d'emprisonnement est portée à une durée maximale de dix ans et l'amende peut aller jusqu'à cinq fois la valeur de
 l'objet de la fraude soit lorsque les faits de contrebande, d'importation ou d'exportation portent sur des marchandises
@@ -8432,12 +8450,7 @@ douanes, soit lorsqu'ils sont commis en bande organisée.
 
 	**Codifié par**:
 
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Modifié par**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 133 () JORF 19 mars 2003
-	  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+	  - Ordonnance n°92-1142 du 12 octobre 1992
 
 	**Cité par**:
 
@@ -8449,27 +8462,33 @@ douanes, soit lorsqu'ils sont commis en bande organisée.
 	  - Code des douanes de Mayotte - art. 295 (V)
 	  - Code des douanes de Mayotte - art. 41 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 20 (V)
+	  - Loi n°2011-267 du 14 mars 2011 - art. 126
+
 
 ##### B. - Deuxième classe.
 
 ###### Article 283
 
 Seront punis d'un emprisonnement de deux ans à dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant
-lieu lorsque la saisie n'a pas pu être prononcée et d'une amende comprise entre une et cinq fois la somme sur laquelle a
-porté l'infraction ou la tentative d'infraction ceux qui auront, par exportation, importation, transfert ou compensation,
-procédé ou tenté de procéder à une opération financière entre la France et l'étranger portant sur des fonds qu'ils savaient
-provenir, directement ou indirectement, d'un délit prévu au présent code ou d'une infraction à la législation sur les
-substances ou plantes vénéneuses classées comme stupéfiants.
+lieu lorsque la saisie n'a pas pu être prononcée, de la confiscation des biens et avoirs qui sont le produit direct ou
+indirect de l'infraction et d'une amende comprise entre une et cinq fois la somme sur laquelle a porté l'infraction ou la
+tentative d'infraction ceux qui auront, par exportation, importation, transfert ou compensation, procédé ou tenté de procéder
+à une opération financière entre la France et l'étranger portant sur des fonds qu'ils savaient provenir, directement ou
+indirectement, d'un délit prévu au présent code ou d'une infraction à la législation sur les substances ou plantes vénéneuses
+classées comme stupéfiants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 92-1142 1992-10-12
+	  - Ordonnance n°92-1142 du 12 octobre 1992
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-1151 2004-10-28 art. 4 C, G JORF 29 octobre 2004
+	  - Loi n°2011-267 du 14 mars 2011 - art. 126
 
 	**Cité par**:
 
@@ -9696,8 +9715,9 @@ exercée que sur la plainte du représentant de l'Etat à Mayotte ou de l'un de 
 l'étranger soit en ne respectant pas les obligations de déclaration ou de rapatriement, soit en n'observant pas les
 procédures prescrites ou les formalités exigées, soit en ne se munissant pas des autorisations requises ou en ne satisfaisant
 pas aux conditions dont ces autorisations sont assorties, sera puni d'une peine d'emprisonnement de un an à cinq ans, de la
-confiscation du corps du délit, de la confiscation des moyens de transport utilisés pour la fraude et d'une amende égale au
-minimum au montant et au maximum au double de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
+confiscation du corps du délit, de la confiscation des moyens de transport utilisés pour la fraude, de la confiscation des
+biens et avoirs qui sont le produit direct ou indirect de l'infraction  et d'une amende égale au minimum au montant et au
+maximum au double de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
 
 2. Lorsque, pour une cause quelconque, les objets passibles de confiscation n'ont pu être saisis ou ne sont pas représentés
 par le délinquant ou lorsque le ministre du budget ou son représentant en fait la demande, le tribunal doit, pour tenir lieu
@@ -9719,7 +9739,7 @@ insérées en entier ou par extraits dans les journaux qu'ils désigneront.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-860 du 28 août 2008 - art. 1
+	  - Loi n°2011-267 du 14 mars 2011 - art. 126
 
 	**Cité par**:
 
