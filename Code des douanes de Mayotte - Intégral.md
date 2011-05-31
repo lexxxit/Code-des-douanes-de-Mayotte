@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-06-01
 
 # Partie législative
 
@@ -5726,7 +5726,7 @@ précisent les opérations qui y seront autorisées.
 
 #### Section 1 : Constatation par procès-verbal de saisie
 
-##### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.
+##### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants et retenue douanière
 
 ###### Article 193
 
@@ -5737,43 +5737,238 @@ administration.
 expéditions et tous autres documents relatifs aux objets saisis et de procéder à la retenue préventive des objets affectés à
 la sûreté des pénalités.
 
-3. Ils ne peuvent procéder à la capture des prévenus qu'en cas de flagrant délit.
+**Liens relatifs à cet article**
 
-Le procureur de la République en est immédiatement informé.
+	**Codifié par**:
 
-La durée de la retenue ne peut excéder vingt-quatre heures, sauf prolongation d'une même durée autorisée par le procureur de
-la République.
+	  - Ordonnance n°92-1142 du 12 octobre 1992
 
-Pendant la retenue, le procureur de la République peut se transporter sur les lieux pour vérifier les modalités de la retenue
-et se faire communiquer les procès-verbaux et registres prévus à cet effet. S'il l'estime nécessaire, il peut désigner un
-médecin.
+	**Modifié par**:
 
-Les agents mentionnent, par procès-verbal de constat, la durée des interrogatoires et des repos qui ont séparé ces
-interrogatoires, le jour et l'heure du début et de la fin de la retenue.
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
 
-Ces mentions figurent également sur un registre spécial tenu dans les locaux de douane.
+	**Cité par**:
+
+	  - Code des douanes de Mayotte - art. 208 (V)
+
+
+###### Article 193-1
+
+Les agents des douanes ne peuvent procéder à l'arrestation et au placement en retenue douanière d'une personne qu'en cas de
+flagrant délit douanier puni d'une peine d'emprisonnement et lorsque cette mesure est justifiée par les nécessités de
+l'enquête douanière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
+
+
+###### Article 193-2
+
+La durée de la retenue douanière ne peut excéder vingt-quatre heures. 
+
+Toutefois, la retenue peut être prolongée pour un nouveau délai de vingt-quatre heures au plus, sur autorisation écrite et
+motivée du procureur de la République, si les nécessités de l'enquête douanière le justifient. 
+
+L'autorisation est accordée dans les conditions prévues au II de l'article 63 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63
+
+	**Cité par**:
+
+	  - Code des douanes de Mayotte - art. 270 (V)
+
+
+###### Article 193-3
+
+Dès le début de la retenue douanière, le procureur de la République dans le ressort duquel est constaté le flagrant délit en
+est informé par tout moyen. 
+
+Il est avisé de la qualification des faits qui a été notifiée à la personne. Le procureur de la République peut modifier
+cette qualification ; dans ce cas, la nouvelle qualification est notifiée à la personne dans les conditions prévues à
+l'article 193-6. 
+
+Si la mesure doit être exécutée dans un autre ressort que celui du procureur de la République où l'infraction a été
+constatée, ce dernier en est informé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
+
+	**Cite**:
+
+	  - Code des douanes de Mayotte - art. 193-6
+
+
+###### Article 193-4
+
+La retenue douanière s'exécute sous le contrôle du procureur de la République qui assure la sauvegarde des droits reconnus
+par la loi à la personne retenue. 
+
+Il peut se transporter sur les lieux pour vérifier les modalités de la retenue et se faire communiquer les procès-verbaux et
+registres prévus à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
+
+
+###### Article 193-5
+
+La personne placée en retenue douanière bénéficie du droit de faire prévenir un proche ou son curateur ou son tuteur, de
+faire prévenir son employeur, d'être examinée par un médecin et de l'assistance d'un avocat dans les conditions et sous les
+réserves définies aux articles 63-2 à 63-4-4 du code de procédure pénale. Lorsque la personne placée en retenue douanière est
+de nationalité étrangère, elle peut faire contacter les autorités consulaires de son pays. Les attributions conférées à
+l'officier de police judiciaire par les articles 63-2 à 63-3-1,63-4-2 et 63-4-3 du même code sont exercées par un agent des
+douanes. 
+
+Lorsque la personne est retenue pour un délit douanier mentionné au dernier alinéa de l'article 282 ou à l'article 283 du
+présent code ou pour un délit connexe à une infraction mentionnée à l'article 706-73 du code de procédure pénale,
+l'intervention de l'avocat peut être différée dans les conditions prévues aux sixième à dernier alinéas de l'article 706-88
+du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63-2
+	  - Code de procédure pénale - art. 63-4-2
+	  - Code de procédure pénale - art. 706-73
+	  - Code de procédure pénale - art. 706-88
+	  - Code des douanes de Mayotte - art. 282 (V)
+	  - Code des douanes de Mayotte - art. 283 (V)
+
+	**Cité par**:
+
+	  - Code des douanes de Mayotte - art. 193-6 (VD)
+
+
+###### Article 193-6
+
+La personne placée en retenue douanière est immédiatement informée par un agent des douanes, dans les conditions prévues à
+l'article 63-1 du code de procédure pénale : 
+
+1° De son placement en retenue ainsi que de la durée de la mesure et de la prolongation dont celle-ci peut faire l'objet ; 
+
+2° De la nature et de la date présumée de l'infraction qu'elle est soupçonnée d'avoir commise ou tenté de commettre ; 
+
+3° Du fait qu'elle bénéficie des droits énoncés à l'article 193-5 du présent code ; 
+
+4° Du fait qu'elle a le choix, après avoir décliné son identité, de faire des déclarations, de répondre aux questions qui lui
+sont posées ou de se taire. 
+
+Mention de l'information donnée en application du présent article est portée au procès-verbal et émargée par la personne
+retenue. En cas de refus d'émargement, il en est fait mention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63-1
+	  - Code des douanes de Mayotte - art. 193-5
+
+	**Cité par**:
+
+	  - Code des douanes de Mayotte - art. 193-3 (VD)
+
+
+###### Article 193-7
+
+Les articles 63-5 et 63-6 et le premier alinéa de l'article 63-7 du code de procédure pénale sont applicables en cas de
+retenue douanière. 
+
+Les mesures de sécurité mentionnées à l'article 63-6 du même code sont limitativement énumérées par arrêté du ministre chargé
+des douanes. 
+
+Les attributions conférées à l'officier de police judiciaire par l'article 63-7 du même code sont exercées par un agent des
+douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63-5
+	  - Code de procédure pénale - art. 63-7
+
+
+###### Article 193-8
+
+Le procès-verbal de retenue douanière est rédigé conformément au I de l'article 64 du code de procédure pénale. 
+
+Figurent également sur un registre spécial tenu, éventuellement sous forme dématérialisée, dans les locaux de douane
+susceptibles de recevoir une personne retenue, les mentions prévues au premier alinéa du II du même article 64.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 64
+
+
+###### Article 193-9
+
+A l'issue de la retenue douanière, le procureur de la République peut ordonner que la personne retenue soit présentée devant
+lui, un officier de police judiciaire ou un agent des douanes habilité en application de l'article 28-1 du code de procédure
+pénale ou qu'elle soit remise en liberté. 
 
 Lorsque les personnes retenues sont placées en garde à vue au terme de la retenue, la durée de celle-ci s'impute sur la durée
 de la garde à vue.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 92-1142 1992-10-12
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 28-1
+
+
+###### Article 193-10
+
+En cas de flagrant délit douanier commis par un mineur, la retenue douanière se déroule dans les conditions prévues à
+l'article 4 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 4
 
 	**Créé par**:
 
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
-
-	**Cité par**:
-
-	  - Code des douanes de Mayotte - art. 208 (V)
+	  - Loi n°2011-392 du 14 avril 2011 - art. 25
 
 
 ##### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.
