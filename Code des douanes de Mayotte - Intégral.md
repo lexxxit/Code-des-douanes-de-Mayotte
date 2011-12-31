@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2011-06-01
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -1184,7 +1184,7 @@ L'ordonnance comporte :
 visite.
 
 - la mention ou la faculté pour l'occupant des lieux ou son représentant, ainsi que l'auteur présumé des infractions
-mentionnées au 1, de faire appel à un conseil de son choix. 
+mentionnées au 1, de faire appel à un conseil de son choix.
 
 L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
@@ -1198,10 +1198,11 @@ agissements visés au 1 sont susceptibles de se trouver, ils peuvent, sur autori
 a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
 verbal prévu au b du 2. 
 
-Si, à l'occasion de la visite, les agents habilités découvrent des éléments révélant l'existence en d'autres lieux de biens
-ou avoirs se rapportant aux agissements visés au 1, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a
-pris l'ordonnance, procéder immédiatement à la visite de ces lieux aux fins de saisir ces biens et avoirs. Mention de cette
-autorisation est portée au procès-verbal prévu au b du présent 2. 
+Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
+la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux
+agissements visés au 1 sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui
+a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
+verbal prévu au b du 2. 
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite. 
@@ -1212,25 +1213,25 @@ La visite s'effectue sous le contrôle du juge qui l'a autorisée. Lorsqu'elle a
 délivre une commission rogatoire, pour exercer ce contrôle, au juge des libertés et de la détention dans le ressort duquel
 s'effectue la visite. 
 
-Le juge peut se rendre dans les locaux pendant l'intervention. 
+Le juge peut se rendre dans les locaux pendant l'intervention.
 
-A tout moment, il peut décider la suspension ou l'arrêt de la visite. 
+A tout moment, il peut décider la suspension ou l'arrêt de la visite.
 
-L'ordonnance est exécutoire au seul vu de la minute. 
+L'ordonnance est exécutoire au seul vu de la minute.
 
 L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou à son représentant qui en
 reçoit copie intégrale contre récépissé ou émargement au procès-verbal prévu au b du 2. En l'absence de l'occupant des lieux
 ou de son représentant, l'ordonnance est notifiée après la visite par lettre recommandée avec avis de réception. La
 notification est réputée faite à la date de réception figurant sur l'avis. Une copie est également adressée par lettre
 recommandée avec demande d'avis de réception à l'auteur présumé des délits douaniers mentionnés au 1, nonobstant les
-dispositions de l'article 33. 
+dispositions de l'article 33.
 
 A défaut de réception, il est procédé à la signification de l'ordonnance par acte d'huissier de justice. 
 
-Le délai et la voie de recours sont mentionnés dans l'ordonnance. 
+Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
 L'ordonnance peut faire l'objet d'un appel devant le président de la chambre d'appel de Mamoudzou. Les parties ne sont pas
-tenues de constituer avoué. 
+tenues de constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être exclusivement formé par déclaration remise ou
 adressée, par pli recommandé ou par voie électronique, au greffe de la chambre d'appel de Mamoudzou dans un délai de quinze
@@ -1238,7 +1239,7 @@ jours. Ce délai court à compter soit de la remise, soit de la réception, soit
 n'est pas suspensif. 
 
 Le greffe du tribunal de première instance transmet sans délai le dossier de l'affaire au greffe de la chambre d'appel de
-Mamoudzou où les parties peuvent le consulter. 
+Mamoudzou où les parties peuvent le consulter.
 
 L'ordonnance du président de la chambre d'appel de Mamoudzou est susceptible d'un pourvoi en cassation selon les règles
 prévues par le code de procédure civile. Le délai de pourvoi en cassation est de quinze jours. 
@@ -1248,7 +1249,7 @@ l'occupant des lieux ou de son représentant ; en cas d'impossibilité, l'offici
 choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des douanes. 
 
 Les agents des douanes mentionnés au 1 ci-dessus, l'occupant des lieux ou son représentant et l'officier de police judiciaire
-peuvent seuls prendre connaissance des pièces et documents avant leur saisie. 
+peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
 dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable. 
@@ -1260,7 +1261,7 @@ mention en est faite au procès-verbal.
 
 Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous scellés.
 L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de
-l'officier de police judiciaire ; l'inventaire est alors établi. 
+l'officier de police judiciaire ; l'inventaire est alors établi.
 
 Une copie du procès-verbal et de l'inventaire est remise à l'occupant des lieux ou à son représentant. Une copie est
 également adressée par lettre recommandée avec demande d'avis de réception à l'auteur présumé des délits douaniers mentionnés
@@ -1268,16 +1269,16 @@ au 1, nonobstant les dispositions de l'article 33.
 
 Un exemplaire du procès-verbal et de l'inventaire est adressé au juge qui a délivré l'ordonnance dans les trois jours de son
 établissement. Si le juge constate que les biens et avoirs saisis ne proviennent pas directement ou indirectement des délits
-dont la preuve est recherchée, il ordonne la mainlevée de la saisie et la restitution des biens et avoirs concernés. 
+dont la preuve est recherchée, il ordonne la mainlevée de la saisie et la restitution des biens et avoirs concernés.
 
 Le président de la chambre d'appel de Mamoudzou connaît des recours contre le déroulement des opérations de visite ou de
 saisie autorisées en application du a. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations mentionnent le
-délai et la voie de recours. Les parties ne sont pas tenues de constituer avoué. 
+délai et la voie de recours. Les parties ne sont pas tenues de constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise
 ou adressée, par pli recommandé ou par voie électronique, au greffe de la chambre d'appel de Mamoudzou dans un délai de
 quinze jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire. Ce
-recours n'est pas suspensif. 
+recours n'est pas suspensif.
 
 L'ordonnance du président de la chambre d'appel de Mamoudzou est susceptible d'un pourvoi en cassation selon les règles
 prévues par le code de procédure civile. Le délai de pourvoi en cassation est de quinze jours. 
@@ -1286,7 +1287,7 @@ prévues par le code de procédure civile. Le délai de pourvoi en cassation est
 marchandises qui, poursuivies à vue sans interruption dans les conditions prévues par l'article 208 ci-après, sont
 introduites dans une maison ou autre bâtiment. 
 
-4. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier de police
+4.S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier de police
 judiciaire.
 
 **Liens relatifs à cet article**
@@ -1300,14 +1301,14 @@ judiciaire.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 31
+	  - Loi n°2011-267 du 14 mars 2011 - art. 126
 
 	**Cite**:
 
 	  - Code de procédure pénale - art. 56
-	  - Code de procédure pénale - art. 58 (V)
-	  - Code des douanes de Mayotte - art. 282 (V)
-	  - Code des douanes de Mayotte - art. 321 (V)
+	  - Code des douanes de Mayotte - art. 282
+	  - Code des douanes de Mayotte - art. 321
 	  - Code des douanes de Mayotte - art. 33
 
 
