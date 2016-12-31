@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -458,8 +458,7 @@ d'organismes agréés par le Gouvernement français, soit la suppression de la f
 6. Le service des douanes peut exiger, en outre, la production des marchés, contrats, correspondances, etc., relatifs à
 l'opération.
 
-7. Les factures et les autres documents susvisés ne lient pas l'appréciation du service des douanes, ni celle de la
-commission de conciliation et d'expertise douanière.
+7. Les factures et les autres documents susvisés ne lient pas l'appréciation du service des douanes.
 
 8. Lorsque les éléments retenus pour la détermination du prix normal sont exprimés dans une monnaie étrangère, la conversion
 doit être effectuée sur la base du taux de change officiel en vigueur à la date d'enregistrement de la déclaration.
@@ -480,16 +479,11 @@ commettant, ceux-ci sont seulement tenus au paiement des droits et taxes comprom
 
 	**Codifié par**:
 
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+	  - Ordonnance n°92-1142 du 12 octobre 1992
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 	**Cité par**:
 
@@ -6676,19 +6670,17 @@ modalités du présent code en prenant une position différente.
 Toute contestation de la créance doit être adressée à l'autorité qui a signé l'avis de mise en recouvrement dans les trois
 ans qui suivent sa notification.
 
-Le chef du service des douanes statue sur la contestation dans un délai de six mois à compter de sa réception. En cas de
-saisine de la commission de conciliation et d'expertise douanière, ce délai part du jour de la notification aux parties de
-l'avis rendu par la commission.
+Le chef du service des douanes statue sur la contestation dans un délai de six mois à compter de sa réception.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 92-1142 1992-10-12
+	  - Ordonnance n°92-1142 du 12 octobre 1992
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 	**Cité par**:
 
@@ -9389,312 +9381,6 @@ conformément au droit commun.
 
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 	  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
-
-
-## Titre XII : La commission de conciliation et d'expertise douanière.
-
-###### Article 305
-
-1. Dans le cas prévu à l'article 84-1 ci-dessus, il est dressé un acte à fin d'expertise et il est procédé au prélèvement des
-échantillons nécessaires à une expertise. Un arrêté du représentant de l'Etat fixe les conditions dans lesquelles le
-prélèvement est opéré et les cas où les échantillons peuvent être remplacés par certains documents.
-
-2. Lorsque, selon les constatations du service, seul le recouvrement des droits ou taxes est compromis, il peut être offert
-mainlevée des marchandises litigieuses non prohibées sous caution solvable, ou sous consignation, d'une somme pouvant
-s'élever au double du montant des droits et taxes présumés compromis.
-
-Lorsque, selon les constatations du service, les marchandises sont prohibées, il peut, sauf si l'ordre public s'y oppose,
-être offert mainlevée desdites marchandises sous caution solvable, ou sous consignation, d'une somme pouvant s'élever au
-montant de leur valeur estimée par le service ; les marchandises déclarées pour l'importation doivent être renvoyées à
-l'étranger ou mises en entrepôt et les marchandises dont la sortie est demandée doivent rester dans le territoire douanier.
-
-3. Les prélèvements d'échantillons, l'offre de mainlevée ainsi que la réponse sont mentionnés dans l'acte à fin d'expertise.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Codifié par**:
-
-	  - Ordonnance n°92-1142 du 12 octobre 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
-
-	**Cite**:
-
-	  - Code des douanes de Mayotte - art. 84
-
-
-###### Article 306
-
-1. Sauf s'il décide de ne pas donner suite à la contestation, le chef du service des douanes est tenu, dans un délai maximum
-de deux mois à compter de la date de l'acte à fin d'expertise, de notifier au déclarant les motifs sur lesquels
-l'administration fonde son appréciation et l'invite soit à y acquiescer, soit à fournir un mémoire en réponse dans un délai
-maximum de deux mois à compter de la date de notification.
-
-2. Si le désaccord subsiste, le chef du service des douanes, dans un délai maximum de deux mois à compter de la réponse ou de
-l'expiration du délai imparti pour répondre, saisit la commission de conciliation et d'expertise douanière en transmettant à
-son secrétaire le dossier de l'affaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Codifié par**:
-
-	  - Ordonnance n°92-1142 du 12 octobre 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
-
-
-###### Article 307
-
-La commission de conciliation et d'expertise douanière comprend :
-
-1° Un magistrat de l'ordre judiciaire ou de l'ordre administratif, président ;
-
-2° Un fonctionnaire désigné par le représentant de l'Etat ;
-
-3° Deux assesseurs désignés en raison de leur compétence technique.
-
-En cas de partage des voix, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Codifié par**:
-
-	  - Ordonnance n°92-1142 du 12 octobre 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
-
-
-###### Article 308
-
-1. Seules peuvent être désignées comme assesseurs les personnes figurant sur les listes établies, pour chaque chapitre du
-tarif des droits de douane d'importation, par arrêté du représentant de l'Etat. 
-
-Ces personnes sont classées pour chaque chapitre du tarif selon leur qualification et réparties en deux catégories, l'une
-dite des producteurs, industriels et fabricants, l'autre dite des commerçants, importateurs et exportateurs. 
-
-Un arrêté du représentant de l'Etat fixe les modalités d'établissement des listes en précisant notamment les conditions dans
-lesquelles la chambre professionnelle de Mayotte est appelée à formuler des propositions. 
-
-2. Dans chaque affaire, le président désigne les deux assesseurs appelés à la commission et leurs suppléants. 
-
-3. Les assesseurs et leurs suppléants doivent être choisis, l'un dans la catégorie dite des producteurs, industriels et
-fabricants, l'autre dans la catégorie dite des commerçants, importateurs et exportateurs. Ils doivent être choisis dans le
-chapitre relatif à la marchandise qui fait l'objet de la contestation, ce chapitre pouvant être indifféremment celui de
-l'espèce déclarée ou celui de l'espèce présumée ; lorsque la désignation ne peut être faite dans ces conditions, les
-assesseurs techniques peuvent être choisis dans les chapitres afférents aux marchandises qui présentent le plus d'analogie
-avec celles faisant l'objet de la contestation. 
-
-4. Les dispositions des articles 341 à 355 du    code de procédure civile sont applicables aux assesseurs et à leurs
-suppléants ; tout membre de la commission qui saura cause de récusation en sa personne sera tenu de la déclarer immédiatement
-au président ; il sera remplacé par le suppléant désigné. 
-
-5° Les assesseurs sont tenus au secret professionnel.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 341
-
-
-###### Article 309
-
-1. Au cours de l'expertise, le président peut prescrire toutes auditions de personnes, recherches ou analyses qu'il juge
-utiles à l'instruction de l'affaire.
-
-2. Lorsque la contestation ne porte pas sur l'espèce, l'origine ou la valeur des marchandises, le président constate, par une
-décision non susceptible de recours, l'incompétence de la commission.
-
-3. Après examen des mémoires éventuellement produits et après avoir convoqué les parties ou leurs représentants pour être
-entendus, ensemble et contradictoirement, dans leurs observations, la commission, à moins d'accord entre les parties, fixe un
-délai au terme duquel, après avoir délibéré, elle fait connaître ses conclusions qui sont prises à la majorité de ses
-membres.
-
-4. Lorsque les parties sont tombées d'accord avant l'expiration du délai prévu au 3 du présent article, la commission leur en
-donne immédiatement acte en précisant la solution intervenue.
-
-5. Dans ses conclusions, la commission doit indiquer notamment le nom des membres ayant délibéré, l'objet de la contestation,
-l'exposé sommaire des arguments présentés, les constatations techniques et les motifs de la solution adoptée. Lorsque la
-contestation est relative à l'espèce, la position tarifaire des marchandises litigieuses doit être, en outre, précisées.
-
-6. Les conclusions de la commission sont notifiées aux parties.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
-
-
-###### Article 310
-
-La procédure subséquente devant les tribunaux est réglée conformément au chapitre III du titre XI du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
-
-
-###### Article 311
-
-1. Les constatations matérielles et techniques faites par la commission, portant sur l'espèce, l'origine ou la valeur des
-marchandises litigieuses sont les seuls modes de preuve et d'expertise admis auprès des tribunaux.
-
-2. Chaque fois que la juridiction compétente considère que la commission s'est prononcée dans des conditions irrégulières ou
-encore si elle s'estime insuffisamment informée ou enfin si elle n'admet pas les constatations matérielles ou techniques de
-la commission, elle renvoie devant ladite commission. Dans ces cas, le président de la commission peut désigner de nouveaux
-assesseurs techniques.
-
-3. Le jugement de renvoi pour complément de la procédure doit énoncer d'une manière précise les points à examiner par la
-commission et lui impartir un délai pour l'accomplissement de cette mission.
-
-4. Lorsqu'il a été interjeté appel du jugement de renvoi prévu au 3 ci-dessus, la procédure est poursuivie à moins que le
-juge d'appel n'en décide autrement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 92-1142 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
-
-
-###### Article 312
-
-1. Dans le cas où l'administration succombe dans l'instance et si elle a refusé mainlevée des marchandises litigieuses, elle
-est tenue au paiement d'une indemnité fixée conformément à l'article 270 ci-dessus.
-
-2. La destruction ou la détérioration des échantillons ou documents ne peut donner lieu à l'attribution d'aucune indemnité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Codifié par**:
-
-	  - Ordonnance n°92-1142 du 12 octobre 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
-
-	**Cite**:
-
-	  - Code des douanes de Mayotte - art. 270
-
-
-###### Article 313
-
-1. Les frais occasionnés par le fonctionnement de la commission de conciliation et d'expertise douanière sont à la charge de
-Mayotte.
-
-2. Un arrêté du représentant de l'Etat détermine les indemnités à attribuer aux membres de la commission et aux personnes
-appelées à participer aux travaux de la commission.
-
-3. Les conditions d'application du présent titre, notamment en ce qui concerne le fonctionnement de la commission, sont
-fixées par arrêté du représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
-	**Codifié par**:
-
-	  - Ordonnance n°92-1142 du 12 octobre 1992
-
-	**Modifié par**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 
 ## Titre XIII : Contentieux des relations financières avec l'étranger
